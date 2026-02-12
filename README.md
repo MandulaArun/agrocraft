@@ -42,7 +42,7 @@ step 8 : boom...! now you can  see the interface
 * PHP
 * BOOTSTRAP
 
-### Made By 
+### Inspired from 
 <a href = "https://www.linkedin.com/in/abhishek-gupta-a745221a0/" >Abhishek Gupta </a><br>
 <a href = "https://www.linkedin.com/in/omkar-bhabal-620b56192/" >Omkar Bhabal</a> <br>
 <a href = "https://www.linkedin.com/in/ansh-chhadva-ab3902183/" >Ansh Chhadva</a> <br>
