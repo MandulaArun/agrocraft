@@ -4,6 +4,17 @@
 
 #### The applications supports CURD operation for products uploaded by farmers , and it is completely dynamic website build with MySql database and PHP as backend. 
 
+Steps you should follow are 
+step 1 : Download the xammp application
+step 2 : extarct the file 
+step 3 : add the extracted file to xammp appication
+step 4 : then open the xammp application and satrt apache and my sql
+step 5 : now in chrome search for localhost or 127.0.0.1
+step 6 : now add the database into it (you can refer to  youtube video)
+srep 7 : now open the chrome and search for localhost/agrocraft/index.html
+step 8 : boom...! now you can  see the interface
+
+
 ### Starter Images
 
 
@@ -31,7 +42,7 @@
 * PHP
 * BOOTSTRAP
 
-### Made By
+### Made By 
 <a href = "https://www.linkedin.com/in/abhishek-gupta-a745221a0/" >Abhishek Gupta </a><br>
 <a href = "https://www.linkedin.com/in/omkar-bhabal-620b56192/" >Omkar Bhabal</a> <br>
 <a href = "https://www.linkedin.com/in/ansh-chhadva-ab3902183/" >Ansh Chhadva</a> <br>
